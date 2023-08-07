@@ -1,0 +1,20 @@
+CustomerID,ProductID,Age,Marital Status,State,Zone,Orders,Amount
+C01,P01,28,1,Karnataka,Southern,3,300
+C02,P04,20,0,Kerala,Southern,4,2000
+C03,P02,20,1,Sikkim,Eastern,5,4000
+C03,P03,23,0,Sikkim,Eastern,2,3000
+C04,P04,30,1,J&K,Northern,8,9000
+C05,P02,28,1,Rajasthan,Western,45,34500
+C07,P04,30,1,MP,Central,56,98200
+C01,P01,28,1,Karnataka,Southern,46,45300
+C03,P05,20,1,Sikkim,Eastern,74,35000
+C07,P04,18,0,Rajasthan,Western,120,30000
+C03,P03,20,1,Sikkim,Eastern,280,40000
+C01,P01,28,1,Karnataka,Southern,2,600
+C01,P01,28,1,Karnataka,Southern,100,4000
+C08,P03,30,1,Karanatak,Southern,100,5000
+C01,P04,30,1,Karanataka,Southern,10,2000
+C03,P05,28,0,Karanataka,Southern,20,10000
+C06,P05,20,0,Madhya Pradesh,Central,34,34000
+C01,P03,28,1,32,Southern,24,2400
+C03,P05,20,0,Sikkim,Northern,24,0
